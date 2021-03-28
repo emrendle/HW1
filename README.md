@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Homework 1
 ## Description
 The goal of this homework assignment was refactor provided HTML to make it more accessible and readable using semantic HTML. 
@@ -31,3 +32,9 @@ The goal of this homework assignment was refactor provided HTML to make it more 
 * Line 27 - unsure of how to restructure the main image on the page because the image resides in CSS. Was not able to get it to behave correctly when moving it over to HTML and trying to format it as an img in CSS. 
     
 * This image can't be assigned an alt attribute if it isn't an img element in HTML. Without an alt attribute, a major piece of content on the page is both not accessible via screen readers and lacks semantic HTML elements. 
+=======
+# HW1
+Homework 1
+
+README GOES HERE.
+>>>>>>> c6e280b3002b0bde019f6b1fc40895592104c0f1
